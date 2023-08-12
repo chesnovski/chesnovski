@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chesnovski
-- 👀 I’m interested in Web dev, AI, Machine learning 
-- 🌱 I’m currently learning Data science, Computer vision 
+- 👀 I’m interested in Web dev, AI, Machine learning  
 - 💞️ Please check my LinkedIn
 - 📫 How to reach me : www.linkedin.com/in/fedor-chesnovski
 
